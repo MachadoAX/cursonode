@@ -1,0 +1,23 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baby-steps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MachadoAX/cursonode.git"
+  },
+  "author": "Rodrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MachadoAX/cursonode/issues"
+  },
+  "homepage": "https://github.com/MachadoAX/cursonode#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
